@@ -1,0 +1,33 @@
+h1{
+    Text-align: center;
+    color: Purple;
+    font-family: 'Mali', cursive;
+    text-decoration: underline;
+}
+img {
+    width: 600px;
+    height: 420px;
+    border: groove blue;
+    margin: 130px;
+
+}
+h3{
+    color: pink;
+}
+body{
+    background-color: black;
+}
+ul{
+    color: green;
+    font-family: 'Kodchasan', sans-serif;
+}
+h2{
+    color: White;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-decoration: underline;
+}
+ol{
+    color:white;
+    font-family: 'Kodchasan', sans-serif;
+}
+
